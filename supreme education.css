@@ -1,0 +1,15 @@
+body{margin:0;
+    padding:0;
+    }
+body{
+    background-image:url("sliders1.jpg") ;
+    background-size: cover;
+}
+footer {
+    background-color: pink;
+    color: green;
+    padding: 20px 0;
+    text-align: center;
+    position: bottom;
+
+}
